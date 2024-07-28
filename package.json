@@ -1,0 +1,31 @@
+{
+  "name": "create-exp-ts-orm",
+  "version": "1.2.3",
+  "description": "Creates a project template that uses express with typescript and TypeORM, (uses mysql) ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yherbawi1/create-exp-ts-orm.git"
+  },
+  "keywords": [
+    "create-express-app-with-typescript-and-typeorm",
+    "express-app-template-with-typescript-and-typeorm",
+    "create-express-server-with-typescript-and-typeorm",
+    "express-server-with-typeorm",
+    "express with typescript and typeorm",
+    "Typescript express Server with TypeORM"
+  ],
+  "author": "Yazan Herbawi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yherbawi1/create-exp-ts-orm/issues"
+  },
+  "homepage": "https://github.com/yherbawi1/create-exp-ts-orm#readme",
+  "bin": {
+    "create-exp-ts-orm": "./index.js"
+  }
+}
